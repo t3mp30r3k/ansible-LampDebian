@@ -1,0 +1,6 @@
+mysql_root_password: "P@ssw0rd"
+app_user: "www-data"
+http_host: "example1.com"
+http_conf: "example1.com.conf"
+http_port: "80"
+disable_default: true
